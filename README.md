@@ -15,7 +15,7 @@ It is intended to be an exercise of using together standalone Angular components
 1. **Clone the project**
 
 ```
- git clone https://github.com/evgeniush/ng-standalong-hackernews-clone
+ git clone https://github.com/evgeniush/ng-standalone-hackernews-clone
  cd ng-standalong-hackernews-clone
 ```
 
