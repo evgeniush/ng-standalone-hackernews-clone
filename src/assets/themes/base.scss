@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: $body-color;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  margin-top: 5px;
+  width: 85%;
+  min-width: 796px;
+  background-color: #f6f6ef;
+}
